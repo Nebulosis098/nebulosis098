@@ -9,9 +9,9 @@ which I have learned important concepts about software development such as obj.
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="[YOUR-DARKMODE-IMAGE](https://github.com/Nebulosis098/nebulosis098/blob/main/GSKqvpQXwAAJDhp.jpeg?raw=true)">
+ <source media="(prefers-color-scheme: light)" srcset="[YOUR-LIGHTMODE-IMAGE](https://github.com/Nebulosis098/nebulosis098/blob/main/GSKqvpQXwAAJDhp.jpeg?raw=true)">
+ <img alt="YOUR-ALT-TEXT" src="[YOUR-DEFAULT-IMAGE](https://github.com/Nebulosis098/nebulosis098/blob/main/GSKqvpQXwAAJDhp.jpeg?raw=true)">
 </picture>
 
 <details open>
