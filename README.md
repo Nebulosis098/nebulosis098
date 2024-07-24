@@ -27,3 +27,17 @@ which I have learned important concepts about software development such as obj.
 </details>
 
 <!-- TO DO: add more details about me later -->
+
+<!--
+Sintaxis de escritura y formato básicos
+# A first-level heading
+## A second-level heading
+### A third-level heading
+
+Text that is not a quote
+
+> Text that is a quote
+
+Visit https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#quoting-text
+for more information about texting and sintaxis 
+-->
