@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 👋 everyone
+
+- 🌱 I’m currently studying software engineering
+- 📫 How to reach me: meberhardt00@gmail.com
+
+## About me
+I'm currently at an intermediate level of the software engineering career through 
+which I have learned important concepts about software development such as obj. 
+
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
@@ -17,13 +25,5 @@
 |     4| Open to constant learning|
 
 </details>
-
-
-**Nebulosis098/nebulosis098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🌱 I’m currently studying software engineering
-- 📫 How to reach me: meberhardt00@gmail.com
-
-## About me
 
 <!-- TO DO: add more details about me later -->
